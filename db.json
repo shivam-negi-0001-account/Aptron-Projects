@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": "1b73",
+      "name": "shivam negi",
+      "email": "shivamNegi@gmail.com",
+      "password": "123456",
+      "adress": "318 chukhuwala Dehradun",
+      "city": "Dehradun",
+      "zip": "248001"
+    },
+    {
+      "id": "1adf",
+      "name": "sanjay negi",
+      "email": "sanjay@gmail.com",
+      "password": "567890",
+      "mobile": "6754328976"
+    },
+    {
+      "id": "aa64",
+      "name": "Preeti Kurmi",
+      "email": "pv966703@gmail.com",
+      "password": "123456",
+      "mobile": "09634024269"
+    },
+    {
+      "id": "0bb9",
+      "name": "Preeti Kurmi",
+      "email": "pv966703@gmail.com",
+      "password": "123456",
+      "mobile": "09634024269"
+    },
+    {
+      "id": "8b70",
+      "name": "ajay Negi",
+      "email": "aj@test.com",
+      "password": "123321",
+      "mobile": "8943678456"
+    },
+    {
+      "id": "83d5",
+      "name": "shivani negi",
+      "email": "shivani@gmail.com",
+      "password": "123456",
+      "mobile": "05478092354"
+    },
+    {
+      "id": "2bad",
+      "name": "shivani negi",
+      "email": "shivani@gmail.com",
+      "password": "567890",
+      "adress": "noida",
+      "city": "kot",
+      "zip": "436578"
+    },
+    {
+      "id": "e3c9",
+      "name": "nitin negi",
+      "email": "nitin@gmail.com",
+      "password": "56788765",
+      "mobile": "7890542367"
+    }
+  ],
+  
+  "faculties": [
+    {
+      "name": "rohit negi",
+      "email": "rohit567@test.com",
+      "city": "pune",
+      "qualification": "bcom",
+      "subject": "react",
+      "batch": "9-11",
+      "id": "61cf"
+    },
+    {
+      "id": "bb16",
+      "name": "Preeti Kurmi",
+      "email": "pv703@gmail.com",
+      "city": "Dehradun",
+      "qualification": "bca",
+      "subject": "php",
+      "batch": "5-7"
+    },
+    {
+      "id": "4f15",
+      "name": "shivam negi",
+      "email": "shivamNegi@gmail.com",
+      "city": "kotdwar",
+      "qualification": "mba",
+      "subject": "react",
+      "batch": "3-4"
+    },
+    {
+      "name": "ayush negi",
+      "email": "ayu124@gmail.com",
+      "city": "noida",
+      "qualification": "mca",
+      "subject": "python",
+      "batch": "12-2",
+      "id": "68a9"
+    },
+    {
+      "id": "2512",
+      "name": "sanajy negi",
+      "email": "sn456@test.com",
+      "city": "kotdwar",
+      "qualification": "mba",
+      "subject": "php",
+      "batch": "5-7"
+    },
+    {
+      "id": "b509",
+      "name": "aman negi",
+      "email": "ammu@gmail.com",
+      "city": "delhi",
+      "qualification": "bca",
+      "subject": "javascript",
+      "batch": "7-9"
+    },
+    {
+      "id": "3005",
+      "name": "nitin negi",
+      "email": "nitin@gmail.com",
+      "city": "haridwar",
+      "qualification": "bac",
+      "subject": "php",
+      "batch": "2-3"
+    }
+  ]
+}
